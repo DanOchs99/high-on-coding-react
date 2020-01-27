@@ -1,0 +1,27 @@
+.hoc-article {
+    width: 1080px;
+    margin: 20px;
+    margin-left: 60px;
+    font-family: sans-serif;
+}
+
+.headline {
+    font-size: 25px;
+    font-weight: lighter;
+    color: blue;
+}
+
+.text {
+    font-size: 12pt;
+    color: black;
+    padding: 20px 10px 10px 0px;
+}
+
+.footer {
+    font-size: 12pt;
+    font-weight: bold;
+    color: white;
+    background-color: orange;
+    padding: 5px 5px 5px 5px;
+    white-space: pre;
+}
